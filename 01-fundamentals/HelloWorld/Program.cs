@@ -5,3 +5,9 @@ string name;
  Console.WriteLine("what is your name?");
  name = Console.ReadLine();
 Console.WriteLine("whats good " + name);
+
+string a = "hello";
+
+Console.WriteLine(a);
+
+
