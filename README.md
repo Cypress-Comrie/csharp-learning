@@ -3,7 +3,7 @@
 Learning C# and ASP.NET Core to build full-stack applications with React.
 
 ## Learning Path
-- [x] Phase 1: C# Fundamentals
+- [ ] Phase 1: C# Fundamentals
 - [ ] Phase 2: ASP.NET Core Web API
 - [ ] Phase 3: Entity Framework Core
 - [ ] Phase 4: Full-Stack Integration

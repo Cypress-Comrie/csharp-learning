@@ -1,0 +1,15 @@
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/cypress/Personal/csharp-learning/01-fundamentals/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
