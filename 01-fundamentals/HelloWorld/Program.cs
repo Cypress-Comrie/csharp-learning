@@ -10,4 +10,9 @@ string a = "hello";
 
 Console.WriteLine(a);
 
+int area = 12;
+int height = 10;
+
+Console.WriteLine(area * height / 2 );
+
 

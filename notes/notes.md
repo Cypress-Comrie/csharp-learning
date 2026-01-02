@@ -7,3 +7,5 @@ Comments are same as JS easy to remember that!
 
 you can redeclare variables theyre all constant
 
+maths works the same as JS
+
