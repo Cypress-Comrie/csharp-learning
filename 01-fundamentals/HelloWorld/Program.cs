@@ -33,6 +33,7 @@ Console.Write("Target column? ");
 int col = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Deploy to row " + Target + " and column " + col);
+Console.Beep();
 
 
 
